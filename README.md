@@ -22,4 +22,5 @@ git clone https://github.com/kiranraaj19/leftwm-dotfiles
 cd leftwm-dotfiles/.config
 ln -s kitty/ ~/.config/kitty
 ln -s cava/ ~/.config/cava
+ln -s starship.toml ~/.config/starship.toml
 ```
