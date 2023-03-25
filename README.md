@@ -1,5 +1,9 @@
 # Leftwm Dotfiles
 
+## Screenshot
+
+![leftwm-rice](https://user-images.githubusercontent.com/39441413/227709840-fb21ee7a-0883-4ec2-a5c7-98b63a55e647.png)
+
 ## Dependencies
 - Leftwm
 - Kitty
