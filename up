@@ -38,5 +38,5 @@ fi
 
 # Polybar
 if [ -x "$(command -v polybar)" ]; then
-	polybar -q main -c ${SCRIPTPATH}/.config/polybar/config.ini &
+	polybar -q example -c ${SCRIPTPATH}/.config/polybar/config.ini &
 fi
