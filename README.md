@@ -23,4 +23,5 @@ cd leftwm-dotfiles/.config
 ln -s kitty/ ~/.config/kitty
 ln -s cava/ ~/.config/cava
 ln -s starship.toml ~/.config/starship.toml
+ln -s config.ron ~/.config/leftwm/config.ron
 ```
