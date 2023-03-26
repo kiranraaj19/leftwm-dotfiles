@@ -23,6 +23,7 @@ paru -S leftwm kitty cava
 
 ```
 git clone https://github.com/kiranraaj19/leftwm-dotfiles
+ln -s $(pwd)/dotfiles ~/.config/leftwm/themes/current
 cd leftwm-dotfiles/.config
 ln -s kitty/ ~/.config/kitty
 ln -s cava/ ~/.config/cava
