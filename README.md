@@ -7,9 +7,10 @@
 ## Dependencies
 - Leftwm
 - Kitty
+- Starship
 - Cava
 ```
-paru -S leftwm kitty cava
+paru -S leftwm kitty cava starship
 ```
 
 ## Fonts Required
