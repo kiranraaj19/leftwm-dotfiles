@@ -9,8 +9,9 @@
 - Kitty
 - Starship
 - Cava
+- Coreshot (for screenshot)
 ```
-paru -S leftwm kitty cava starship
+paru -S leftwm kitty cava starship coreshot
 ```
 
 ## Fonts Required
